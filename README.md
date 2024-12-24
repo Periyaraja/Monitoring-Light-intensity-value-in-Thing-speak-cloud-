@@ -1,7 +1,7 @@
 ### Name:N.Kiruthika </br>
 ### Reg NO:24900109
 
-# EXP-3:MONITORING LIGHT INTENSITY IN THING SPEAK CLOUD 
+# EXP-4:MONITORING LIGHT INTENSITY IN THING SPEAK CLOUD 
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
